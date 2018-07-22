@@ -1,0 +1,7 @@
+dj-database-url==0.4.1
+Django==1.9.7
+psycopg2==2.7.4
+gunicorn==19.6.0
+whitenoise==3.2
+flask==1.0.1
+bokeh==0.12.15
